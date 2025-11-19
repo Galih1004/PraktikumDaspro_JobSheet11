@@ -5,4 +5,5 @@
 4. penonton.length adalah jumlah baris (4). penonton[0].length adalah jumlah kolom pada baris 0 (2).
    array dibuat dengan ukuran [4][2] sehingga semua baris punya 2 kolom.
 5. sudah
-6. 
+6. sudah
+7. 
