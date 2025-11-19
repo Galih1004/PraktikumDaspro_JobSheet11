@@ -28,3 +28,6 @@
 3. nilai default nya adalah 0
 4. sudah
 5. tidak bisa karna array bersifat tetap
+
+// Menjawab Pertanyaan Percobaan 4
+1. sudah memodifikasi
