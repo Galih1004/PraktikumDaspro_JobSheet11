@@ -22,6 +22,9 @@ public class Bioskop14 {
          System.out.println("Panjang baris " + index + " = " + row.length);
          index++;
         }
+        for (int j = 0; j < penonton[2].length; j++) {
+        System.out.println(penonton[2][j]);
+        }
 
     }
 }

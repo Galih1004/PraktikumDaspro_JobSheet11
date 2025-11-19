@@ -6,4 +6,5 @@
    array dibuat dengan ukuran [4][2] sehingga semua baris punya 2 kolom.
 5. sudah
 6. sudah
-7. 
+7. sudah
+8. 
