@@ -14,3 +14,8 @@
 11. jumlah baris nya 4, jumlah indeks maksimal adalah 3
 12. jumlah kolom nya 4, jumlah indeks kolom maksimal adalah 1
 13. untuk menggabungkan string.
+
+// Menjawab Pertanyaan Percobaan 2
+1. tidak, mengisi array dengan nilai (0) adalah cara untuk menghindari error pada program
+2. sudah
+3.
