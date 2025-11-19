@@ -18,4 +18,6 @@
 // Menjawab Pertanyaan Percobaan 2
 1. tidak, mengisi array dengan nilai (0) adalah cara untuk menghindari error pada program
 2. sudah
-3.
+3. sudah
+4. sudah
+5. sudah

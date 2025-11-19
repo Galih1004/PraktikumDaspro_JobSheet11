@@ -44,5 +44,6 @@ public class BioskopWithScanner14 {
                 }
             }
         }
+        sc.close();
     }
 }
