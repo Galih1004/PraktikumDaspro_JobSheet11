@@ -26,4 +26,5 @@
 1. sudah
 2. fungsinya ialah memasukkan array ke dalam tipe data string
 3. nilai default nya adalah 0
-4. 
+4. sudah
+5. tidak bisa karna array bersifat tetap
