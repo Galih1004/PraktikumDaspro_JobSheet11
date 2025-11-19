@@ -21,3 +21,9 @@
 3. sudah
 4. sudah
 5. sudah
+
+// Menjawab Pertanyaan Percobaan 3
+1. sudah
+2. fungsinya ialah memasukkan array ke dalam tipe data string
+3. nilai default nya adalah 0
+4. 
