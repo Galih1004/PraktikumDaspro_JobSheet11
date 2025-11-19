@@ -8,3 +8,9 @@
 6. sudah
 7. sudah
 8. sudah
+9. sudah
+10. Kelebihan:Lebih sederhana.
+    Kekurangan: Tidak bisa mengetahui indeks, Tidak bisa mengubah ukuran atau lompat indeks tertentu.
+11. jumlah baris nya 4, jumlah indeks maksimal adalah 3
+12. jumlah kolom nya 4, jumlah indeks kolom maksimal adalah 1
+13. untuk menggabungkan string.
