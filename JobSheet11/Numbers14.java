@@ -12,6 +12,8 @@ public class Numbers14 {
         }
         for (int i = 0; i < myNumbers.length; i++) {
             System.out.println("Panjang baris ke-" + (i+1) + ":" + myNumbers[i].length);
+            System.out.println();
+            
         }
     }  
 }
